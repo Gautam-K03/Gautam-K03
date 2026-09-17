@@ -21,22 +21,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-
-
-
----
-## 🐍 Contribution Snake
-
-
----
-
-
-
-
----
-## 📊 GitHub Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=a-elradi&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=a-elradi&theme=tokyonight&hide_border=true)
