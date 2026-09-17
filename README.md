@@ -19,3 +19,26 @@
 [![](https://komarev.com/ghpvc/?username=Gautam Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+---
+## 🐍 Contribution Snake
+
+
+---
+
+
+
+
+---
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=a-elradi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=a-elradi&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a-elradi&layout=compact&theme=tokyonight&hide_border=true)
